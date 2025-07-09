@@ -1,0 +1,1968 @@
+[
+    {
+      "id": "1",
+      "emp_id": "hrm-101",
+      "user_name": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Furqan Zamir",
+        "last_name": "Zamir",
+        "gender": "Male",
+        "date_of_birth": "2025-02-24",
+        "about_us": "Lorem text rext",
+        "mobile_number": "+923456565989"
+      },
+      "address": {
+        "street_address": "724th Street",
+        "regions": [
+          "UAE"
+        ],
+        "location_id": "7",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          },
+          {
+            "label": "Social Media App",
+            "value": "Social Media App",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          },
+          {
+            "label": "0.5",
+            "value": "0.5",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "project_name": [
+          "E-commerce Platform",
+          "Social Media App"
+        ],
+        "billing": [
+          "1.0",
+          "0.5"
+        ],
+        "joining_date": "2025-02-24",
+        "stack": "1",
+        "department": "6",
+        "manager": "4",
+        "designation": "5",
+        "profile_img": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAADACAMAAAB/Pny7AAABGlBMVEXt3dZQeEn////8o5flZEUAAAD8oZX/pprw39n69vTv4dtNdkb9+/r/qJzlYkL38O39npHy5+LlXjxFcT3w0Mj4vLPqt6rlWjf/r6L/9fRQNDDv8u7kVC7nh3Dmb1Lngmr929fjk4ivcWn+5uN7T0nd0shZfVE9bDSfspxqi2Rihlx1lHHrv7Pmd1zpo5PnjHcnGRf9xr/OhXtnQj2SXle5u6itspx+k3LOyLqMnH/e5N2eqI+RqI2xwa/I1MfqrZ3oloL5koG5rqkwMTGASD6vTTdaVVOZQi60jIVbMys8GA9rLyDLVTh/NyYbDAjTUjDRmY+ChobIx8d/eHcnDgo9JiSflZEZGBeIYVuCf1mlimu7kXjPl4K4n4agQh9JAAAP6UlEQVR4nNWdh3biSBaGhUABBQRIMrKxyVi2CTbBOffknZnemZ7t2fz+r7G3JKJQKFUVhv3PmQ7TWKqPG+rWVUnieFpphsKxkGJotEPh9oPEV0mj46GB0fJMUTycPA0OOYyWLzEm8UTjbaQwW0LxcfIfC2NsDcXHIbMOEUy+xDpWgioR4RDAaFtHQVIIfC09DH4GU0ogcvBSauOkhdEwgwVA5P7B6+uBpRADKcZWYTQDcxhc/6RyPFPusq+Q4qTztVQwebwxKdzB4LiSm6tQOR4ccIQ4qRJBChhss1iXlXJuTeXjE4sQJ41x8GFwZ0mlP6jkNlSuvZLS4EcONgymiwFLrrzJAs6WG27d1TBhsKtjxaqFslDRlDBdDQ8GNyGD6hEsiOaVjAXb1bBg8IvK0jCSBWhqfdIpFI8GBwY3XJCTDQrRMLnygNTRIHDYwKRYgSnDOJZcrvK21eomGQZzdvFYrOiI8XV8sE2aRJgULJCWa/GWgaxNsRBSkmiSYNKwJHqZZ5ot0iTApGLhuLcEL0OVAM1iKIEmHiYdi2KdJMLkyhRRk1SpxcKktAsk5mSYwiVV+yCWJg4mJQsqMRNjBmZO8rkGKS6nxcCkZcFIZggmR1wGJNJEw+DP+wuYAwyYXGFI2aaKpomESc8CMDkcGIoqwFdkZRMFoxGcEdMyJ5Qs0TQRMClq/hUYnJjJFeqc4jc4ZGITRaS0CBgit8bKZgAjc9br2+XlsE/aF4iaPMNhUicy/xQ48wzAWMNaxdPg1WJKEwqTlwlhkopmT7V6eWbAcvmkTwbDlXBhSILf1yUOTGHFF8sDUpqwJBAGQzwPYFTNQRHThNU1ITBkAeOdACs3B2guCU8WMnduwhDMlgsYq54aJlchLaM3HW0ThqbYUN7Sw5TrpCfbcLQNGHIn43CnzaBpSPPzhqMFYYim/pXjX6aHIW9yBB0tCENZ0SrWWq05y8IJ/achcWswHwtDEf2+SsPyYuiF3GBQr5/UB7VYnPIJ8UkDjrYOQ+lkSPJlZYHyXpR0kCS+D2JwKGACFec6DFX0+4L0XPFZ6kU960vSi+/RmYEGZt00azDkdcwazUmlACzv2VVJ75EVNU3Pdj0HrMEwMIxH81YpFN6l7DpNMYqGPAEgaREwGhMWdIH2NVcTHcfRpTXbRHjaMVWHw4iAYWMYD8catjqTTis7j5qs7jjFCJiyJdPsfYiAYcbCyZ++ETy1fBopO+50vv2uEE5TKNTqrxwpjxEKw26jktz9XriaTCdXwlHTo9F9NOGHiBxQKB8fX5JWNaEwzFg4zvpx2oSYaU5bMyc7Oup0fvqLIPz8SwROrlDJHZCdrBQCw3IHmaV7sQ9T5iz4s01dH/zy62fh5ygYiJ0CWZGmhMCwgCiVDMMolWS7uJ6Xs5KUFSE1//BZ+C6GpmYRndXYgGGQyhY73gzLEQM0olgcVMqFXz/HwJDOOMoGDP3kj1DyYBmol7T2Ok2x6Ni2U69V/hrHkisPyEZhBGCoy2VU83nbHWVFaWj8Kk2xaDfah4eH7cbo7Tiufi4UyLqCpQAMdfgby2vsVtY+5A8XNEWnfTi3/2GjELJLaOlnZOl5vq7hGBmmtBJ1/WLxtwe+MWcZAUrbdnT95K0NOGF7nhZ+RjjXGGsw1OGv8fn5HxVHFL/9vcrbMxaNP7SLzaaUrVeO3+Av9RgawubzbCXgw1AvykrL5YNiQV6eCl/4NsrPInhcO1tsCl+bOiTn44LBl6L2PaHtKGSa+RnHxsvyK4Y5KErZjvCnpmWzzVazgaJHH0NhI+nvEBU1je9HmaZ8Sdfa4Fh52dK2jig1O8KPh7zTnAh/8JotZn2YrFQHGodvR/XXK6+kML6fcUy8jFumQ+RlElD8dsiPpsLXT3xDX8KAoxVqbe0VmaZQ9i5rLPsfkJlJa82Zn3FsJpnlpKvYPswnCPUvn74YAJOdwwBNPVe2eQuB1E7ehsPhG8ykc5wyxQVCYwFDX8qsWAbmFwTzZTG1zNws65WesN58463cYNi3ZCOvaYZsveZmMUS95Ylj4mUQM4svxJsrm2PIYn/80W9oWgPo9NYMBvUCHKjdvGkUSgL0u9Y+8WigzqTwkPwMht7L4FCzBoLSL/pDHvEPwt9E5/AQVdD6+GtrsYK2/Vp0eDIY1AaDSzvPG3XkahXiLZxIxhyGmgUVAL55S/5UKept/k9h6jhtbRRYDogjQLEH5Uq5XECxU77M86P6oFYZ0BjG8zOOTfUPfuabRnH8ed/iq98IMLU0+EZwNQD/qyiK74MBuFbtHf7ojKSsLr1TbXfyLtlyTELGW1MgAyuW9+WjGuZ3QQCwER9YDYiO5htL94UiybedQ2UZFDQcoz4m8lkUeyNRhHgHlnZHmDgwdJhu1pc2jSDe4l+oYgYNgGMSMrODaaXSyHGcERTHbecnYYpi3vJy88IukBg2omhBM6KHYdX781J9u42y7SHk4yOvaSY6bUQzG74o2tpibbAhUSfrAfiCoOEYtmUUNAvyGkwftig2j4QxsoxoA03DhuVmsZi1YQ3aCHMyyY+dEY3H5wGGTcj4UuTRaGQ7IqpoZjBgmwYylTUaNRpgNFSqbaI0W2MJfZQahhkKmjKRBdBopezRvDcLqRfN9959y+1RdpNFz7aOhI73UZqTGwDDKP49Kf3F9SWAmerzSHFsKGDabct2NlkkZzy5Eq5anp/RZOcSwLDr/QPMaPl1T1Bqnoe2192UACvELJ0rQeg0vb9QwSgAw7Itq9jLQbYWlkF/0zco5h72VUBLaokehtseDIxzhWU6lYIcnouNjwQBSrj5J6lhWN7buwqTXQxfAitdNcNopoJwBU42bTKByXMsr2Ssw3gcSNkxBEV2E0YaC58n49bksyC0ZosdqrMbHMvMvAnTROs0+P4nzbCgaU5bTd1ptiawdEMSbaqzGxzLzLwB05pM0fWzCBaUF6TZlOn9O11xtmUYqYOu/X3utCJYVpzRZ6M7e4kxTD/gRy3QuCmFprINURqGUziWcyaszdZNIK187YkSHdqzs4XhLCd50JGiWQD4YgujhC8isQxD6WRIbB9TotikMJRp2RdjGIsQRWdgF9Yw81YTHoG4+J2yMzMXaxgL389sKDBRL8ex+3T3oS3E/NE+2ClA5CxYS9sj8jtPNsQaxrsKiCd0U5AnZidnbhllY69JhHT2DxbawhOkXpNo/JKAqhUTrm08DsuJo5H0rLdQo+srhWsLMArYJioL6I407XiWEe3/Cxiv5RTattSz48n8Ghpd+zJcbGuzuRRu5MwWzXN5a060UJs1OoqUtwWHiel6ZkWK/GOriZT1fh23pkfeNs3OvGlD17wIPeXWYDjle1hkHk06oMnX2YZT4et0sdf5/wqm+40Q1FVnvFy8UfWVQ1Vi251Z0WJr80KBXgB7GINt32xFyp9/X2fpBHoB7AuALcL8sUoygWSw3gvYwpyZZ9ueXQptOp8FyhHYxNsMvKYtzJl5to3zFXX/0elMW2PEoYf1Z7YAw/gqwFJK31le5w8T+wJAYXyxaeXIwa7zBgzzAkBhfBkQSZbRDfjd14QFZ9HyP0t2t36YSowv0HJobN2765v722ECjHhzc3N91+2yIzKYXjqHMXXvbh7PM6rp/nOY4GbSqeuqF+e39zfXwMSCKM9uUwMiuX68PTVNU1Uz5r8SWLJZ8/YePgkfNzOA9OgT0YxAY7XdRJa71/eIRM14Mv+dgFIcPlcfMv6nPaRTZKS7LjlPSWOzEUiW757OT9XZ0NB/p/+Jbf2LRbut8Q9mZikgUk8veo93pDgGky1asnx9CyRzm/RcM6PGhoxYdNDGk+dTNbMuOIh6cU+IYzDYPAco5wuSTMZ95qs9Ny7+xaKItp889MwgyxzolggnT72tUeGuL9zVQblncMDq83/FkM0YXqwU0b4gvnpmmmEovnHd+25qmtm2RuKggRNen7uB79ftvXg7fiwb7TZbE+rNeHuCqs+nwR8L4Jg33uFTyKDbCixzd7chrqK652cPVbSNqd0Y2Y4nHf1ij1Ck8PmHswQU/yB36WgMmh3nMK08quGuorqZ++cXDwhtpfN0eIjspVUfXh7VRBTPOOpjmjyt5ClgZPCw8Aj2cEzXPH8CoIeHalVDqlaB4+X5/tSN/qngMXopEsFi+zyBn8ndx43EGvxqTTdz0bt9ejpDenq67XnVAR6Jf4Tza2xXW97YkDY5wyTZUzGG5Vcrc+H8RODnTx8x09rKLScp/UzmEs3CSKraw6NZuRkonZ/J3G36L5mY5uIOh2b1Nq00ftbuXnwYi4dz3U4c09oNdLyBnTbku49EQXIfE2lKa/dpYheb8vVHsyCapK96/aZT7BXazcezQI5+6sYOKnA7MG4KuMnsgAVobmOTWvBGbRzTyNzNB6XkoFQzro5ePH8q1cMNrnfEkkCzeIjG8rETiX4m744lnmbzsROJppHvdsiCaG4jskDYA0ESrm3Idxe7ZEE0T+GmMcJg4lNAe8csIPM+dPbkw2BiTdM+d3fNArNnGE34443iokZ+3AMWoLnZ9DQ+HCa6hS7f7RpjJnODJh8BE2kaudvbecD4Uk8DKwIl6mFtUeWmLD/uoiILlXq+TrP2hEOcBxzudLYMSl0r02IecBi+SJO7t9Hdxw+XmlkpBZS4R0+GFc+yvJOyP1Kq+rjo2cQ+FDRs5tz51B8ULKTDWZIfpCtz93vkZJ4gpfljS3qQ7mYOuNvNeixOZs83THDsSQ+flrl9iv65vK4AxsOnA5ONfL0XdUxQ7rWM9VjwwOWa3h4aBq0H7kLeDJDwKP09NQyY5inknQ2hb2xYOpp8vpeGyajuS8i4w18/sZxj9tUwZ2HjDn8xyJxG3sdUlkEXTvFfDDKfbeTu3k0xnsyLauioY1+m077ZS8Oo6kP4qCNfc+TR7FlV5kt1nyMGHfkCKqCRr/eSxYxiiX01mHy/hzCqehYeMLEwkNL20MtU9SmSJfZ1ei/7Vy9nzNuI4E+Cedi/uszsxbDEv7Vx72jiWRLep1ndh6bsUu55dLwkw/DViz2iiZr4cWHQtr5dM8zlJrEkvx14b2jcXhILxnubq0+ptiJtSaoZM7/gw/DVs903AePm/VQwvLa5afejWU6fY18LnAIGaoHdrp7N87BFMikM/3CPtbFySyz3sVNlahgIHHdHxlFdnHBJBcNrLxc7oTFNrHBJB4MqtY93NdXtPSS9e54Ihq8+x+x534pMfBdLCwPG2dgtv02p7gVeFiOD4fmzzEfVA6qZOcP3MCIYSNKZD/E1VY1fuzCBgRkUa4M2Lcr5c0qzkMHAnBNzGwATFPM8VeDTwICvbRNHNS/OUnsYBcwWcTyU9B5GBcNrD88X7PO06p4+P5B4GB0MurPnOcO2YDPdzDOpVShhQNWXnsvKPKrr9l6IjcIAhmcWPCiBkUX9iv4Hzj+4UkWOKFoAAAAASUVORK5CYII=",
+        "regions": [
+          {
+            "label": "UAE",
+            "value": "UAE",
+            "selected": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "emp_id": "hrm-103",
+      "user_name": "janesmith",
+      "email": "jane.smith@email.com",
+      "password": "pass456",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Creative UI/UX Designer",
+        "mobile_number": "+923456565922"
+      },
+      "address": {
+        "street_address": "789 Oak Street",
+        "regions": [],
+        "location_id": "6",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "0.5",
+            "value": "0.5",
+            "selected": true
+          },
+          {
+            "label": "0.25",
+            "value": "0.25",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "6",
+        "project": "Furqan Studio",
+        "billing": [
+          "0.5",
+          "0.25"
+        ],
+        "manager": "3",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "4",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "4",
+      "emp_id": "hrm-104",
+      "user_name": "peterparker",
+      "email": "peter.parker@email.com",
+      "password": "spidey",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Peter",
+        "last_name": "Parker",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Friendly neighborhood developer",
+        "mobile_number": "+923456565933"
+      },
+      "address": {
+        "street_address": "31st Street",
+        "regions": [],
+        "location_id": "3",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "0.5",
+            "value": "0.5",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "2",
+        "project": "Furqan Studio",
+        "billing": [
+          "0.5"
+        ],
+        "manager": "4",
+        "designation": "6",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "9",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "5",
+      "emp_id": "hrm-105",
+      "user_name": "tonystark",
+      "email": "tony.stark@stark.com",
+      "password": "ironman",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Tony",
+        "last_name": "Stark",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Innovating the future",
+        "mobile_number": "+923456565944"
+      },
+      "address": {
+        "street_address": "10880 Malibu Point",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "7",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "3",
+        "designation": "2",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "4",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "6",
+      "emp_id": "hrm-106",
+      "user_name": "brucewayne",
+      "email": "bruce.wayne@wayne.com",
+      "password": "batman",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Bruce",
+        "last_name": "Wayne",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Gotham's protector",
+        "mobile_number": "+923456565955"
+      },
+      "address": {
+        "street_address": "Wayne Manor",
+        "regions": [],
+        "location_id": "2",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "5",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "6",
+        "designation": "2",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "4",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "7",
+      "emp_id": "hrm-107",
+      "user_name": "natashar",
+      "email": "natasha.romanoff@shield.com",
+      "password": "blackwidow",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Natasha",
+        "last_name": "Romanoff",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Espionage expert",
+        "mobile_number": "+923456565966"
+      },
+      "address": {
+        "street_address": "SHIELD HQ",
+        "regions": [],
+        "location_id": "5",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "4",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "2",
+        "designation": "3",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "2",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "8",
+      "emp_id": "hrm-108",
+      "user_name": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Furqan",
+        "last_name": "Zamir",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Lorem text",
+        "mobile_number": "+923456565999"
+      },
+      "address": {
+        "street_address": "724th Street",
+        "regions": [],
+        "location_id": "4",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "5",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "4",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "8",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "9",
+      "emp_id": "hrm-109",
+      "user_name": "john_doe",
+      "email": "john.doe@example.com",
+      "password": "john123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Software Engineer",
+        "mobile_number": "+923456565965"
+      },
+      "address": {
+        "street_address": "123 Main St",
+        "regions": [],
+        "location_id": "2",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "4",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "5",
+        "designation": "3",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "2",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "10",
+      "emp_id": "hrm-110",
+      "user_name": "jane_smith",
+      "email": "jane.smith@example.com",
+      "password": "jane123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Product Manager",
+        "mobile_number": "+923456565978"
+      },
+      "address": {
+        "street_address": "456 Elm St",
+        "regions": [],
+        "location_id": "6",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "2",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "6",
+        "designation": "5",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "4",
+        "profile_img": "data:image/png;base64,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"
+      }
+    },
+    {
+      "id": "11",
+      "emp_id": "hrm-111",
+      "user_name": "alice_wonder",
+      "email": "alice.wonder@example.com",
+      "password": "alice123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Alice",
+        "last_name": "Wonder",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Data Scientist",
+        "mobile_number": "+923456565998"
+      },
+      "address": {
+        "street_address": "789 Oak St",
+        "regions": [],
+        "location_id": "7",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "2",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "3",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "5",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "12",
+      "emp_id": "hrm-112",
+      "user_name": "john_doe",
+      "email": "john.doe@example.com",
+      "password": "john123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Software Engineer",
+        "mobile_number": "+923456565999"
+      },
+      "address": {
+        "street_address": "123 Elm St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "3",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "4",
+        "designation": "3",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "5",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "13",
+      "emp_id": "hrm-113",
+      "user_name": "jane_smith",
+      "email": "jane.smith@example.com",
+      "password": "jane123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Product Manager",
+        "mobile_number": "+923456565997"
+      },
+      "address": {
+        "street_address": "456 Pine St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "4",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "4",
+        "designation": "3",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "2",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "14",
+      "emp_id": "hrm-114",
+      "user_name": "michael_brown",
+      "email": "michael.brown@example.com",
+      "password": "michael123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "DevOps Engineer",
+        "mobile_number": "+923456565996"
+      },
+      "address": {
+        "street_address": "789 Maple St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "6",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "3",
+        "designation": "6",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "11",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "15",
+      "emp_id": "hrm-115",
+      "user_name": "sarah_jones",
+      "email": "sarah.jones@example.com",
+      "password": "sarah123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Sarah",
+        "last_name": "Jones",
+        "gender": "Female",
+        "date_of_birth": "2025-02-26",
+        "about_us": "UX Designer",
+        "mobile_number": "+923456565995"
+      },
+      "address": {
+        "street_address": "101 Birch St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "4",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "2",
+        "designation": "6",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "2",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "16",
+      "emp_id": "hrm-116",
+      "user_name": "david_johnson",
+      "email": "david.johnson@example.com",
+      "password": "david123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "David",
+        "last_name": "Johnson",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Data Engineer",
+        "mobile_number": "+923456565994"
+      },
+      "address": {
+        "street_address": "202 Cedar St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "8",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "6",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "12",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "17",
+      "emp_id": "hrm-117",
+      "user_name": "lisa_wang",
+      "email": "lisa.wang@example.com",
+      "password": "lisa123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Lisa",
+        "last_name": "Wang",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Frontend Developer",
+        "mobile_number": "+923456565993"
+      },
+      "address": {
+        "street_address": "303 Oak St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "2",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "3",
+        "designation": "5",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "2",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "18",
+      "emp_id": "hrm-118",
+      "user_name": "robert_garcia",
+      "email": "robert.garcia@example.com",
+      "password": "robert123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Robert",
+        "last_name": "Garcia",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Backend Developer",
+        "mobile_number": "+923456565992"
+      },
+      "address": {
+        "street_address": "404 Pine St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "3",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "4",
+        "designation": "5",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "6",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "19",
+      "emp_id": "hrm-118",
+      "user_name": "robert_garcia",
+      "email": "robert.garcia@example.com",
+      "password": "robert123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Robert",
+        "last_name": "Garcia",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Backend Developer",
+        "mobile_number": "+923456565992"
+      },
+      "address": {
+        "street_address": "404 Pine St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "2",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "3",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "5",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "20",
+      "emp_id": "hrm-120",
+      "user_name": "daniel_martinez",
+      "email": "daniel.martinez@example.com",
+      "password": "daniel123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Daniel",
+        "last_name": "Martinez",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Full Stack Developer",
+        "mobile_number": "+923456565990"
+      },
+      "address": {
+        "street_address": "606 Maple St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "3",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "2",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "5",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "21",
+      "emp_id": "hrm-121",
+      "user_name": "linda_rodriguez",
+      "email": "linda.rodriguez@example.com",
+      "password": "linda123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Linda",
+        "last_name": "Rodriguez",
+        "gender": "Female",
+        "date_of_birth": "2025-02-26",
+        "about_us": "HR Manager",
+        "mobile_number": "+923456565989"
+      },
+      "address": {
+        "street_address": "707 Cedar St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "4",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "3",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "10",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "22",
+      "emp_id": "hrm-122",
+      "user_name": "james_wilson",
+      "email": "james.wilson@example.com",
+      "password": "james123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "James",
+        "last_name": "Wilson",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "abc",
+        "mobile_number": "+923456565988"
+      },
+      "address": {
+        "street_address": "808 Birch St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "2",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "3",
+        "designation": "2",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "4",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "23",
+      "emp_id": "hrm-123",
+      "user_name": "patricia_anderson",
+      "email": "patricia.anderson@example.com",
+      "password": "patricia123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Patricia",
+        "last_name": "Anderson",
+        "gender": "Female",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Business Analyst",
+        "mobile_number": "+923456565987"
+      },
+      "address": {
+        "street_address": "909 Oak St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "1",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "5",
+        "designation": "6",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "6",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "24",
+      "emp_id": "hrm-124",
+      "user_name": "richard_taylor",
+      "email": "richard.taylor@example.com",
+      "password": "richard123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Richard",
+        "last_name": "Taylor",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Network Engineer",
+        "mobile_number": "+923456565986"
+      },
+      "address": {
+        "street_address": "1010 Pine St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "6",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "7",
+        "designation": "5",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "11",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "25",
+      "emp_id": "hrm-125",
+      "user_name": "jennifer_thomas",
+      "email": "jennifer.thomas@example.com",
+      "password": "jennifer123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Jennifer",
+        "last_name": "Thomas",
+        "gender": "Female",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Marketing Manager",
+        "mobile_number": "+923456565985"
+      },
+      "address": {
+        "street_address": "1111 Maple St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "2",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "3",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "6",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "26",
+      "emp_id": "hrm-126",
+      "user_name": "charles_moore",
+      "email": "charles.moore@example.com",
+      "password": "charles123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Charles",
+        "last_name": "Moore",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Sales Executive",
+        "mobile_number": "+923456565984"
+      },
+      "address": {
+        "street_address": "1212 Cedar St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "1",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "2",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "10",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "27",
+      "emp_id": "hrm-127",
+      "user_name": "mary_jackson",
+      "email": "mary.jackson@example.com",
+      "password": "mary123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Mary",
+        "last_name": "Jackson",
+        "gender": "Female",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Customer Support",
+        "mobile_number": "+923456565983"
+      },
+      "address": {
+        "street_address": "1313 Elm St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "1",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "1",
+        "designation": "1",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "1",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "28",
+      "emp_id": "hrm-128",
+      "user_name": "thomas_white",
+      "email": "thomas.white@example.com",
+      "password": "thomas123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Thomas",
+        "last_name": "White",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Finance Manager",
+        "mobile_number": "+923456565982"
+      },
+      "address": {
+        "street_address": "1414 Pine St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "9",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "2",
+        "designation": "3",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "9",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "29",
+      "emp_id": "hrm-129",
+      "user_name": "susan_harris",
+      "email": "susan.harris@example.com",
+      "password": "susan123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Susan",
+        "last_name": "Harris",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Legal Advisor",
+        "mobile_number": "+923456565981"
+      },
+      "address": {
+        "street_address": "1515 Oak St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "1",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "5",
+        "designation": "1",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "10",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "30",
+      "emp_id": "hrm-130",
+      "user_name": "joseph_martin",
+      "email": "joseph.martin@example.com",
+      "password": "joseph123",
+      "confirmPassword": "",
+      "status": "Active",
+      "personal": {
+        "first_name": "Joseph",
+        "last_name": "Martin",
+        "gender": "Male",
+        "date_of_birth": "2025-02-26",
+        "about_us": "Security Analyst",
+        "mobile_number": "+923456565980"
+      },
+      "address": {
+        "street_address": "1616 Maple St",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "1",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "4",
+        "designation": "1",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-02-26",
+        "stack": "9",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "id": "31",
+      "emp_id": "hrm-131",
+      "user_name": "margaret_thompson",
+      "email": "margaret.thompson@example.com",
+      "password": "margaret123",
+      "confirmPassword": "",
+      "status": "Inactive",
+      "personal": {
+        "first_name": "Margaret",
+        "last_name": "Thompson",
+        "gender": "Male",
+        "date_of_birth": "2025-01-31",
+        "about_us": "Content Writer",
+        "mobile_number": "+923456565979"
+      },
+      "address": {
+        "street_address": "1717 Cedar St",
+        "location_id": "1",
+        "regions": [],
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "1",
+        "project": "Furqan Studio",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "6",
+        "designation": "1",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "regions": "hrm",
+        "joining_date": "2025-01-31",
+        "stack": "8",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp"
+      }
+    },
+    {
+      "emp_id": "Empl-031",
+      "email": "furqancsit@gmail.com",
+      "user_name": "admin",
+      "status": "Active",
+      "password": "admin",
+      "personal": {
+        "first_name": "furqan",
+        "last_name": "Zamir",
+        "gender": "Male",
+        "date_of_birth": "2025-02-25",
+        "about_us": "asd",
+        "mobile_number": "03463310882"
+      },
+      "address": {
+        "street_address": "R-330/19 F.B Area Karachi Pakistan",
+        "regions": [
+          "UAE",
+          "USA",
+          "UK",
+          "Canada",
+          "Australia",
+          "Germany"
+        ],
+        "location_id": "2",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ],
+        "postal_code": "75950"
+      },
+      "profile": {
+        "department": "10",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "3",
+        "designation": "5",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "joining_date": "2025-02-25",
+        "stack": "8",
+        "profile_img": "data:image/png;base64,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",
+        "regions": [
+          {
+            "label": "UAE",
+            "value": "UAE",
+            "selected": true
+          },
+          {
+            "label": "USA",
+            "value": "USA",
+            "selected": true
+          },
+          {
+            "label": "UK",
+            "value": "UK",
+            "selected": true
+          },
+          {
+            "label": "Canada",
+            "value": "Canada",
+            "selected": true
+          },
+          {
+            "label": "Australia",
+            "value": "Australia",
+            "selected": true
+          },
+          {
+            "label": "Germany",
+            "value": "Germany",
+            "selected": true
+          }
+        ]
+      },
+      "id": "32"
+    },
+    {
+      "emp_id": "Empl-032",
+      "email": "furqancsit@gmail.com",
+      "user_name": "asd",
+      "status": "Active",
+      "password": "asdsa",
+      "personal": {
+        "first_name": "furqan",
+        "last_name": "Zamir",
+        "gender": "Male",
+        "date_of_birth": "2025-02-25",
+        "about_us": "asdsa",
+        "mobile_number": "03463310882"
+      },
+      "address": {
+        "street_address": "R-330/19 F.B Area Karachi Pakistan",
+        "regions": [
+          "UAE",
+          "UK"
+        ],
+        "location_id": "5",
+        "postal_code": "75950",
+        "project_name": [
+          {
+            "label": "UAE Project",
+            "value": "UAE Project",
+            "selected": false
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          },
+          {
+            "label": "0.5",
+            "value": "0.5",
+            "selected": true
+          },
+          {
+            "label": "0.25",
+            "value": "0.25",
+            "selected": true
+          },
+          {
+            "label": "0",
+            "value": "0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "3",
+        "billing": [
+          "1.0",
+          "0.5",
+          "0.25",
+          "0"
+        ],
+        "manager": "4",
+        "designation": "6",
+        "project_name": [
+          "UAE Project"
+        ],
+        "joining_date": "2025-02-25",
+        "stack": "6",
+        "profile_img": "https://pub-c5e31b5cdafb419fb247a8ac2e78df7a.r2.dev/public/assets/images/mock/avatar/avatar-25.webp",
+        "regions": [
+          {
+            "label": "UAE",
+            "value": "UAE",
+            "selected": true
+          },
+          {
+            "label": "UK",
+            "value": "UK",
+            "selected": true
+          }
+        ]
+      },
+      "id": "33"
+    },
+    {
+      "emp_id": "Empl-033",
+      "email": "furqancsit@gmail.com",
+      "user_name": "asdsa",
+      "status": "Active",
+      "password": "asdas",
+      "personal": {
+        "first_name": "furqan",
+        "last_name": "Zamir",
+        "gender": "Male",
+        "date_of_birth": "2025-06-25",
+        "about_us": "tesdf",
+        "mobile_number": "03463310882"
+      },
+      "address": {
+        "street_address": "",
+        "regions": [],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          },
+          {
+            "label": "Social Media App",
+            "value": "Social Media App",
+            "selected": true
+          }
+        ],
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "11",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "6",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform",
+          "Social Media App"
+        ],
+        "joining_date": "2025-06-04",
+        "profile_img": "data:image/png;base64,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",
+        "stack": "5"
+      },
+      "id": "34"
+    },
+    {
+      "emp_id": "Empl-034",
+      "email": "furqancsitsdsd@gmail.com",
+      "user_name": "adminsds",
+      "status": "Active",
+      "password": "sdfds",
+      "personal": {
+        "first_name": "furqansds",
+        "last_name": "Zamir",
+        "gender": "",
+        "date_of_birth": "",
+        "about_us": "",
+        "mobile_number": "03463310882"
+      },
+      "address": {
+        "street_address": "",
+        "regions": [
+          "UAE"
+        ],
+        "location_id": "1",
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "4",
+        "billing": [],
+        "manager": "5",
+        "designation": "7",
+        "project_name": [
+          "E-commerce Platform"
+        ],
+        "joining_date": "2025-06-04",
+        "profile_img": "data:image/png;base64,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",
+        "stack": "10",
+        "regions": [
+          {
+            "label": "UAE",
+            "value": "UAE",
+            "selected": true
+          }
+        ]
+      },
+      "first_name": "",
+      "id": "35"
+    },
+    {
+      "emp_id": "Empl-035",
+      "email": "furqancsit@gmail.com",
+      "user_name": "admin",
+      "status": "Active",
+      "password": "asdas",
+      "personal": {
+        "first_name": "furqan",
+        "last_name": "Zamir",
+        "gender": "",
+        "date_of_birth": "2025-06-26",
+        "about_us": "",
+        "mobile_number": "03463310882"
+      },
+      "address": {
+        "street_address": "",
+        "regions": [],
+        "location_id": "7",
+        "project_name": [
+          {
+            "label": "Banking App",
+            "value": "Banking App",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "3",
+        "billing": [],
+        "manager": "3",
+        "designation": "4",
+        "project_name": [
+          "Banking App"
+        ],
+        "joining_date": "2025-06-26",
+        "profile_img": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_640.png",
+        "stack": "4"
+      },
+      "id": "36"
+    },
+    {
+      "emp_id": "Empl-036",
+      "email": "furqancsit@gmail.com",
+      "user_name": "admin",
+      "status": "Active",
+      "password": "55",
+      "personal": {
+        "first_name": "furqan",
+        "last_name": "Zamir",
+        "gender": "",
+        "date_of_birth": "2025-06-25",
+        "about_us": "",
+        "mobile_number": "03463310882"
+      },
+      "address": {
+        "street_address": "",
+        "regions": [
+          "UAE"
+        ],
+        "location_id": "6",
+        "billing": [
+          {
+            "label": "1.0",
+            "value": "1.0",
+            "selected": true
+          }
+        ],
+        "project_name": [
+          {
+            "label": "E-commerce Platform",
+            "value": "E-commerce Platform",
+            "selected": true
+          },
+          {
+            "label": "Social Media App",
+            "value": "Social Media App",
+            "selected": true
+          }
+        ]
+      },
+      "profile": {
+        "department": "6",
+        "billing": [
+          "1.0"
+        ],
+        "manager": "6",
+        "designation": "4",
+        "project_name": [
+          "E-commerce Platform",
+          "Social Media App"
+        ],
+        "joining_date": "2025-06-25",
+        "profile_img": "data:image/png;base64,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",
+        "stack": "9",
+        "regions": [
+          {
+            "label": "UAE",
+            "value": "UAE",
+            "selected": true
+          }
+        ]
+      },
+      "id": "37"
+    }
+  ]
